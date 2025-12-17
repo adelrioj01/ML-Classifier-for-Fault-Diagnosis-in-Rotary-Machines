@@ -58,3 +58,15 @@ All dependencies can be installed automatically using `requirements.txt`.
 ```bash
 git clone https://github.com/USERNAME/REPOSITORY_NAME.git
 cd REPOSITORY_NAME
+
+### 2. Create and activate a virtual environment
+
+python -m venv .venv
+source .venv/bin/activate        # macOS / Linux
+.venv\Scripts\activate           # Windows
+
+### 3. Install dependencies
+pip install -r requirements.txt
+
+### 4. Run the project
+python main.py
