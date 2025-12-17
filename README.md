@@ -10,6 +10,14 @@ The system is designed to be modular and interactive, allowing the user to selec
 - Diagnosis task
 
 ---
+## Academic Context
+
+This project was developed as my **Bachelor’s Thesis (TFG)** at  
+**Universidad Carlos III de Madrid (UC3M)**.
+
+The thesis received a **final grade of 10/10**, awarded for the quality of the methodology, implementation, and experimental results.
+
+The full written thesis report is included in this repository under TFG_Alberto_del_Río.pdf.
 
 ## Project Overview
 
