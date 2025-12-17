@@ -74,3 +74,42 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+
+## Data
+
+Place CSV files like:
+```bash
+data/raw/25rpm/*.csv
+data/raw/50rpm/*.csv
+data/raw/75rpm/*.csv
+```
+## Running
+
+### 1) Feature extraction
+```bash
+python feature_extraction_time.py   # or feature_extraction_freq.py
+```
+
+#### Outputs:
+```bash
+data/features/time_25rpm.csv
+data/features/freq_25rpm.csv
+...
+```
+
+### 2) Train / evaluate models
+```bash
+python models_menu.py
+```
+
+Follow the prompts to choose: RPM: 25 / 50 / 75
+
+Feature extraction: frequency or time
+
+Model: LR / LogReg / DT / SVM / NN
+
+Task: detection or categorization
+
+## Fault label mapping
+
+See docs/fault_codes.md.
