@@ -78,11 +78,11 @@ python main.py
 ## Data
 
 Place CSV files like:
-```bash
+
 data/raw/25rpm/*.csv
 data/raw/50rpm/*.csv
 data/raw/75rpm/*.csv
-```
+
 ## Running
 
 ### 1) Feature extraction
