@@ -17,7 +17,7 @@ This project was developed as my **Bachelor’s Thesis (TFG)** at
 
 The thesis received a **final grade of 10/10**, awarded for the quality of the methodology, implementation, and experimental results.
 
-The full written thesis report is included in this repository under TFG_Alberto_del_Río.pdf.
+**The full written thesis report is included in this repository under TFG_Alberto_del_Río.pdf.**
 
 ## Project Overview
 
