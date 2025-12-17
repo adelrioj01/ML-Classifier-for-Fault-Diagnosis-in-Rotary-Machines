@@ -58,6 +58,7 @@ All dependencies can be installed automatically using `requirements.txt`.
 ```bash
 git clone https://github.com/USERNAME/REPOSITORY_NAME.git
 cd REPOSITORY_NAME
+```bash
 
 ### 2. Create and activate a virtual environment
 
